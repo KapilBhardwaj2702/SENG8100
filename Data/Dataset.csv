@@ -1,0 +1,1001 @@
+Store,Category,Item,Price,Stock,Last_Updated,Weight_grams,Price_per_100g
+No Frills,Household,Toilet Paper,19.08,97,03/07/2025,,
+Walmart,Bakery,Bagel,6.86,99,18/06/2025,,
+Costco,Household,Toilet Paper,15.97,16,06/07/2025,,
+Costco,Beverages,Water,4.69,40,13/07/2025,,
+Walmart,Fruits,Orange,4.03,64,05/07/2025,739.65,0.54
+No Frills,Snacks,Chips,14.63,5,25/06/2025,,
+Food Basics,Bakery,Muffin,4.27,81,22/06/2025,,
+Food Basics,Dairy,Milk,5.77,55,14/07/2025,,
+No Frills,Vegetables,Potato,12.9,64,19/06/2025,814.61,1.58
+Costco,Bakery,Croissant,17.76,92,14/07/2025,,
+Costco,Fruits,Apple,1.58,62,01/07/2025,1623.91,0.1
+Walmart,Fruits,Orange,19.97,48,29/06/2025,1579.99,1.26
+Costco,Dairy,Butter,12.17,59,01/07/2025,1673.99,0.73
+No Frills,Snacks,Crackers,18.86,46,23/06/2025,,
+Walmart,Meat,Beef,1.31,16,05/07/2025,1672.42,0.08
+No Frills,Bakery,Croissant,19.89,68,10/07/2025,,
+No Frills,Beverages,Tea,14.71,32,17/07/2025,,
+No Frills,Household,Soap,5.6,35,10/07/2025,,
+Food Basics,Household,Tissue,13.08,32,30/06/2025,,
+Walmart,Snacks,Cookies,4.42,37,16/07/2025,,
+Costco,Meat,Beef,17.96,26,26/06/2025,1649.64,1.09
+No Frills,Beverages,Soda,6.41,88,24/06/2025,,
+Food Basics,Beverages,Water,1.62,10,06/07/2025,,
+No Frills,Vegetables,Carrot,7.29,35,21/06/2025,1839.67,0.4
+Walmart,Vegetables,Potato,13.01,55,08/07/2025,874.48,1.49
+Walmart,Bakery,Bread,14.37,80,16/07/2025,,
+Costco,Vegetables,Tomato,17.76,65,13/07/2025,1590.05,1.12
+Walmart,Snacks,Crackers,14.69,40,17/07/2025,,
+Walmart,Dairy,Milk,19.14,13,15/07/2025,,
+No Frills,Meat,Chicken,12.34,71,30/06/2025,1292.27,0.95
+Costco,Household,Tissue,17,38,13/07/2025,,
+Costco,Snacks,Nuts,17.22,42,06/07/2025,1505.03,1.14
+Walmart,Snacks,Crackers,1.63,75,28/06/2025,,
+No Frills,Vegetables,Tomato,11.3,45,21/06/2025,731.76,1.54
+Food Basics,Meat,Fish,1.92,78,23/06/2025,981.04,0.2
+No Frills,Dairy,Butter,3.57,54,07/07/2025,721.4,0.49
+Food Basics,Meat,Chicken,2.41,90,06/07/2025,950.21,0.25
+Walmart,Dairy,Milk,6.99,54,22/06/2025,,
+Food Basics,Snacks,Cookies,5.66,99,05/07/2025,,
+Food Basics,Bakery,Bread,12.61,55,20/06/2025,,
+No Frills,Household,Tissue,3.61,82,22/06/2025,,
+Walmart,Vegetables,Onion,16.15,10,20/06/2025,1274.68,1.27
+Costco,Vegetables,Potato,12.29,93,02/07/2025,1351.97,0.91
+Costco,Fruits,Grapes,19.93,23,19/06/2025,1120.35,1.78
+Costco,Household,Soap,19.41,57,16/07/2025,,
+Walmart,Dairy,Cheese,18.27,70,05/07/2025,1483.49,1.23
+No Frills,Bakery,Croissant,2.73,87,12/07/2025,,
+Food Basics,Vegetables,Tomato,14.77,65,05/07/2025,1108.16,1.33
+Food Basics,Bakery,Bread,8.08,63,20/06/2025,,
+Costco,Vegetables,Onion,6.61,86,24/06/2025,1949.54,0.34
+Walmart,Beverages,Soda,12.93,92,04/07/2025,,
+Walmart,Vegetables,Onion,17.19,5,18/06/2025,1133.42,1.52
+Walmart,Snacks,Crackers,8.02,73,17/06/2025,,
+Walmart,Meat,Fish,13.05,94,30/06/2025,462.42,2.82
+Costco,Meat,Pork,12.3,80,11/07/2025,502.38,2.45
+Walmart,Beverages,Tea,18.85,32,01/07/2025,,
+No Frills,Fruits,Orange,13.11,66,24/06/2025,1909.78,0.69
+Walmart,Bakery,Muffin,2.05,37,24/06/2025,,
+No Frills,Beverages,Water,4.94,48,09/07/2025,,
+Costco,Vegetables,Tomato,8.8,20,06/07/2025,1104.23,0.8
+Walmart,Household,Soap,8.65,69,26/06/2025,,
+Walmart,Bakery,Bread,13.17,80,25/06/2025,,
+Walmart,Snacks,Crackers,10.82,53,01/07/2025,,
+Walmart,Dairy,Yogurt,5.66,49,29/06/2025,,
+Walmart,Snacks,Chips,1.83,43,03/07/2025,,
+Costco,Bakery,Croissant,12.09,8,16/07/2025,,
+Walmart,Meat,Beef,19.97,56,17/07/2025,989.54,2.02
+Walmart,Snacks,Nuts,11.21,72,16/07/2025,791.94,1.42
+No Frills,Bakery,Muffin,4.28,2,08/07/2025,,
+Food Basics,Beverages,Water,3.7,76,12/07/2025,,
+Food Basics,Dairy,Milk,13.62,36,01/07/2025,,
+Food Basics,Beverages,Juice,8.19,29,28/06/2025,,
+No Frills,Beverages,Water,8.96,44,06/07/2025,,
+Food Basics,Snacks,Nuts,3.9,74,17/06/2025,1363.89,0.29
+Food Basics,Bakery,Bagel,1.03,3,15/07/2025,,
+No Frills,Vegetables,Potato,10.68,4,28/06/2025,1503.05,0.71
+No Frills,Meat,Fish,12.41,40,17/06/2025,477.21,2.6
+Food Basics,Bakery,Croissant,17.15,62,05/07/2025,,
+Walmart,Snacks,Cookies,4.19,40,18/06/2025,,
+Food Basics,Snacks,Cookies,12.91,99,24/06/2025,,
+Walmart,Fruits,Grapes,1.46,99,22/06/2025,1675.44,0.09
+Costco,Meat,Chicken,19.54,31,10/07/2025,1589.12,1.23
+Food Basics,Household,Toilet Paper,17.55,55,26/06/2025,,
+Walmart,Household,Tissue,6.7,16,23/06/2025,,
+Food Basics,Bakery,Bagel,7.91,63,30/06/2025,,
+Walmart,Snacks,Crackers,14.81,16,09/07/2025,,
+Food Basics,Fruits,Apple,14.8,58,21/06/2025,426.41,3.47
+Costco,Vegetables,Tomato,18.11,73,27/06/2025,881.52,2.05
+Costco,Dairy,Butter,7.16,8,17/07/2025,1128.83,0.63
+Food Basics,Beverages,Juice,17.64,49,28/06/2025,,
+Costco,Beverages,Juice,4.34,40,20/06/2025,,
+Costco,Beverages,Water,4.11,14,16/07/2025,,
+Costco,Beverages,Soda,10.23,4,16/07/2025,,
+No Frills,Bakery,Bagel,12.47,96,13/07/2025,,
+Costco,Vegetables,Potato,8.61,8,16/07/2025,1811.95,0.48
+No Frills,Beverages,Tea,19.67,91,11/07/2025,,
+Walmart,Bakery,Bread,6.35,62,10/07/2025,,
+Food Basics,Meat,Chicken,3.8,63,18/06/2025,927.39,0.41
+Food Basics,Meat,Pork,11.61,90,22/06/2025,1576.07,0.74
+Costco,Fruits,Banana,13.73,11,14/07/2025,1311.2,1.05
+Costco,Dairy,Milk,18.26,3,22/06/2025,,
+Walmart,Vegetables,Tomato,9.32,63,21/06/2025,705.25,1.32
+Food Basics,Household,Detergent,6.66,12,27/06/2025,,
+Food Basics,Household,Toilet Paper,2.24,11,28/06/2025,,
+No Frills,Vegetables,Onion,6.17,37,06/07/2025,440.45,1.4
+No Frills,Meat,Chicken,4.46,81,11/07/2025,434.07,1.03
+Costco,Dairy,Milk,14.55,21,10/07/2025,,
+Costco,Vegetables,Onion,4.58,91,24/06/2025,1344.41,0.34
+Walmart,Vegetables,Onion,12.64,95,11/07/2025,1622.96,0.78
+No Frills,Snacks,Chips,6.48,30,02/07/2025,,
+No Frills,Snacks,Cookies,7.39,76,07/07/2025,,
+Food Basics,Vegetables,Potato,8.89,90,27/06/2025,1087.76,0.82
+No Frills,Dairy,Yogurt,16.08,90,30/06/2025,,
+Walmart,Household,Detergent,9.46,3,27/06/2025,,
+Walmart,Beverages,Tea,12.88,8,25/06/2025,,
+Food Basics,Meat,Beef,3.85,52,26/06/2025,332.99,1.16
+No Frills,Meat,Fish,15.37,88,15/07/2025,399.61,3.85
+Food Basics,Meat,Fish,16.61,77,02/07/2025,1798.31,0.92
+No Frills,Beverages,Tea,2.23,67,19/06/2025,,
+Walmart,Household,Tissue,13.49,20,27/06/2025,,
+Costco,Bakery,Bread,2.22,47,24/06/2025,,
+Costco,Fruits,Apple,16.02,100,28/06/2025,381.35,4.2
+Walmart,Dairy,Milk,16.38,88,21/06/2025,,
+Costco,Meat,Chicken,6.12,11,30/06/2025,661.16,0.93
+Costco,Fruits,Orange,9.31,4,29/06/2025,744.02,1.25
+Costco,Dairy,Butter,15.59,96,18/06/2025,490.19,3.18
+No Frills,Meat,Pork,11.04,24,06/07/2025,783.1,1.41
+Costco,Meat,Beef,12.24,68,21/06/2025,203.38,6.02
+Food Basics,Household,Detergent,7.92,82,03/07/2025,,
+No Frills,Snacks,Cookies,16.26,49,05/07/2025,,
+Food Basics,Beverages,Water,18.07,65,22/06/2025,,
+No Frills,Meat,Beef,13.18,82,12/07/2025,1399.06,0.94
+No Frills,Fruits,Apple,7.61,30,15/07/2025,1071.46,0.71
+Food Basics,Vegetables,Potato,4.26,90,27/06/2025,1371.08,0.31
+Food Basics,Snacks,Nuts,14.02,96,11/07/2025,1520.47,0.92
+No Frills,Fruits,Banana,19.59,59,22/06/2025,1643.96,1.19
+Walmart,Dairy,Butter,13.57,91,30/06/2025,1818.44,0.75
+No Frills,Fruits,Apple,14.82,10,23/06/2025,690.32,2.15
+Food Basics,Vegetables,Carrot,5.22,9,17/07/2025,1149.85,0.45
+No Frills,Household,Soap,9.73,34,09/07/2025,,
+Walmart,Meat,Fish,5.66,79,05/07/2025,1346.63,0.42
+Costco,Dairy,Butter,4.83,92,06/07/2025,1344.01,0.36
+No Frills,Vegetables,Carrot,16.02,99,14/07/2025,420.57,3.81
+No Frills,Bakery,Muffin,11.53,41,15/07/2025,,
+Walmart,Beverages,Water,2.18,71,24/06/2025,,
+No Frills,Snacks,Cookies,9.91,62,11/07/2025,,
+No Frills,Household,Toilet Paper,16.12,81,01/07/2025,,
+No Frills,Fruits,Banana,1.04,94,29/06/2025,865.69,0.12
+Food Basics,Dairy,Cheese,17.88,39,27/06/2025,230.16,7.77
+Costco,Dairy,Milk,19.17,62,29/06/2025,,
+Costco,Meat,Chicken,15.93,29,05/07/2025,1292.9,1.23
+Walmart,Meat,Beef,18.99,75,13/07/2025,652.95,2.91
+No Frills,Meat,Fish,9.21,65,11/07/2025,1893.19,0.49
+Walmart,Vegetables,Carrot,5.08,1,18/06/2025,371.03,1.37
+Food Basics,Fruits,Apple,16.82,37,18/06/2025,1534.03,1.1
+Walmart,Fruits,Orange,4.85,37,04/07/2025,1540.31,0.31
+No Frills,Bakery,Croissant,6.25,44,18/06/2025,,
+Walmart,Beverages,Soda,1.05,73,02/07/2025,,
+Walmart,Bakery,Croissant,19.84,22,18/06/2025,,
+No Frills,Beverages,Soda,14.99,6,01/07/2025,,
+No Frills,Snacks,Nuts,14.41,29,23/06/2025,1013.6,1.42
+Walmart,Fruits,Grapes,9.64,76,12/07/2025,1100.94,0.88
+No Frills,Bakery,Croissant,3.59,55,09/07/2025,,
+No Frills,Snacks,Cookies,10.61,34,04/07/2025,,
+Costco,Vegetables,Tomato,11.06,6,15/07/2025,212.54,5.2
+Food Basics,Bakery,Bagel,11.57,95,01/07/2025,,
+Costco,Dairy,Yogurt,4.46,81,02/07/2025,,
+Walmart,Bakery,Bread,2.72,23,13/07/2025,,
+No Frills,Beverages,Tea,11.84,65,28/06/2025,,
+Costco,Beverages,Soda,5.34,61,25/06/2025,,
+No Frills,Beverages,Soda,16.98,92,16/07/2025,,
+Food Basics,Vegetables,Tomato,8.97,68,19/06/2025,611.47,1.47
+Costco,Meat,Chicken,13.06,21,05/07/2025,229.17,5.7
+Food Basics,Dairy,Cheese,19.97,40,17/07/2025,1615.02,1.24
+Walmart,Vegetables,Onion,4.69,44,02/07/2025,497.83,0.94
+Walmart,Snacks,Chips,17.55,17,26/06/2025,,
+Costco,Dairy,Milk,7.89,24,17/06/2025,,
+No Frills,Beverages,Tea,7.82,84,12/07/2025,,
+Food Basics,Bakery,Croissant,15.04,79,04/07/2025,,
+Walmart,Vegetables,Tomato,3.36,50,08/07/2025,900.88,0.37
+Walmart,Fruits,Apple,2.51,94,14/07/2025,1766.43,0.14
+No Frills,Beverages,Water,16.5,22,19/06/2025,,
+Walmart,Vegetables,Potato,7.5,86,02/07/2025,855.21,0.88
+Costco,Meat,Fish,12.39,49,25/06/2025,1787.75,0.69
+No Frills,Vegetables,Carrot,16.72,100,08/07/2025,918.42,1.82
+Food Basics,Dairy,Yogurt,7.51,1,17/06/2025,,
+Food Basics,Meat,Fish,18.91,11,09/07/2025,1714.5,1.1
+Food Basics,Beverages,Tea,19.12,59,04/07/2025,,
+Walmart,Vegetables,Carrot,7.42,44,24/06/2025,1430.79,0.52
+Costco,Fruits,Orange,2.05,18,13/07/2025,1765.88,0.12
+Walmart,Household,Detergent,4.03,14,18/06/2025,,
+Food Basics,Meat,Fish,12.86,6,22/06/2025,609.3,2.11
+Walmart,Dairy,Butter,5.26,24,12/07/2025,1653.65,0.32
+Costco,Vegetables,Potato,18.06,20,10/07/2025,1661.31,1.09
+Costco,Fruits,Banana,6.51,30,12/07/2025,1570.87,0.41
+No Frills,Fruits,Orange,8.13,86,02/07/2025,824.4,0.99
+Food Basics,Snacks,Nuts,2.77,22,15/07/2025,446.49,0.62
+No Frills,Fruits,Grapes,9.54,33,24/06/2025,876.97,1.09
+Costco,Beverages,Soda,5.75,87,23/06/2025,,
+Food Basics,Meat,Pork,10.87,30,25/06/2025,1890.73,0.57
+Food Basics,Snacks,Chips,17.06,92,12/07/2025,,
+Food Basics,Household,Soap,18.98,12,12/07/2025,,
+Walmart,Beverages,Soda,19.66,44,27/06/2025,,
+Walmart,Meat,Beef,15.09,11,22/06/2025,1915.39,0.79
+No Frills,Bakery,Croissant,19.9,81,07/07/2025,,
+Costco,Household,Detergent,14.37,97,25/06/2025,,
+Walmart,Fruits,Banana,17.26,84,03/07/2025,1704.24,1.01
+No Frills,Snacks,Chips,16.42,70,02/07/2025,,
+Walmart,Household,Tissue,10.31,50,23/06/2025,,
+Walmart,Dairy,Yogurt,19.97,75,24/06/2025,,
+Walmart,Dairy,Yogurt,14.63,51,09/07/2025,,
+No Frills,Vegetables,Onion,8.17,43,17/06/2025,1888.47,0.43
+Walmart,Dairy,Yogurt,9.67,39,29/06/2025,,
+Food Basics,Bakery,Muffin,12,75,14/07/2025,,
+Food Basics,Fruits,Grapes,1.57,13,08/07/2025,1815.72,0.09
+No Frills,Meat,Pork,12.82,0,18/06/2025,431.1,2.97
+No Frills,Beverages,Water,17.74,15,17/07/2025,,
+Costco,Household,Toilet Paper,15.04,1,22/06/2025,,
+Food Basics,Beverages,Juice,8.26,99,04/07/2025,,
+Food Basics,Vegetables,Carrot,19.18,95,24/06/2025,422.57,4.54
+Food Basics,Household,Soap,9.11,40,28/06/2025,,
+Food Basics,Household,Toilet Paper,3.41,58,02/07/2025,,
+Walmart,Vegetables,Onion,12.57,99,06/07/2025,1427.65,0.88
+Costco,Household,Soap,19.3,57,27/06/2025,,
+Food Basics,Bakery,Bread,4.69,41,30/06/2025,,
+Costco,Meat,Fish,17.79,86,17/07/2025,1627.14,1.09
+No Frills,Bakery,Bread,14.68,88,04/07/2025,,
+Food Basics,Bakery,Bagel,3.11,77,23/06/2025,,
+Food Basics,Snacks,Nuts,19.86,70,08/07/2025,230.48,8.62
+Walmart,Bakery,Croissant,17.55,89,18/06/2025,,
+Walmart,Vegetables,Carrot,3.77,23,17/06/2025,1056.45,0.36
+Costco,Vegetables,Onion,3.64,66,03/07/2025,377.13,0.97
+Costco,Meat,Beef,9.92,36,11/07/2025,286.45,3.46
+No Frills,Bakery,Muffin,8.17,14,17/06/2025,,
+Walmart,Fruits,Banana,13.35,37,15/07/2025,520.31,2.57
+No Frills,Fruits,Orange,2.82,3,06/07/2025,1661.14,0.17
+Walmart,Snacks,Crackers,11.07,42,30/06/2025,,
+No Frills,Vegetables,Potato,8.36,15,19/06/2025,1375.5,0.61
+No Frills,Snacks,Crackers,4.52,10,01/07/2025,,
+Costco,Fruits,Grapes,10.19,81,30/06/2025,1309.19,0.78
+Food Basics,Bakery,Croissant,4.09,66,06/07/2025,,
+No Frills,Beverages,Water,3.53,34,21/06/2025,,
+Costco,Beverages,Juice,12.03,9,08/07/2025,,
+Walmart,Bakery,Bagel,1.23,42,22/06/2025,,
+Food Basics,Snacks,Crackers,6.84,97,12/07/2025,,
+No Frills,Bakery,Muffin,3.27,69,21/06/2025,,
+Costco,Bakery,Muffin,2.08,32,15/07/2025,,
+Food Basics,Meat,Chicken,17.45,71,22/06/2025,1431.15,1.22
+No Frills,Beverages,Juice,9.26,31,10/07/2025,,
+Costco,Snacks,Nuts,11.84,67,19/06/2025,809.45,1.46
+Walmart,Meat,Pork,17.78,99,25/06/2025,1158.68,1.53
+Costco,Dairy,Yogurt,5.45,55,12/07/2025,,
+Food Basics,Beverages,Soda,4.36,29,27/06/2025,,
+Costco,Household,Toilet Paper,2.2,72,03/07/2025,,
+No Frills,Meat,Fish,9.42,72,02/07/2025,1059.93,0.89
+Walmart,Household,Soap,14.87,76,12/07/2025,,
+Food Basics,Fruits,Orange,19,65,09/07/2025,1779.73,1.07
+No Frills,Meat,Pork,1.82,17,15/07/2025,1403.08,0.13
+No Frills,Dairy,Milk,19.65,6,26/06/2025,,
+Walmart,Bakery,Croissant,5.67,64,04/07/2025,,
+Costco,Beverages,Juice,16.88,31,04/07/2025,,
+Food Basics,Meat,Pork,10.23,37,02/07/2025,1156.62,0.88
+Food Basics,Bakery,Bagel,6.32,91,05/07/2025,,
+Walmart,Fruits,Apple,15.45,37,08/07/2025,1441.06,1.07
+Walmart,Dairy,Cheese,11.05,3,08/07/2025,744.04,1.49
+Costco,Vegetables,Carrot,9.73,22,30/06/2025,1886.59,0.52
+No Frills,Beverages,Juice,8.23,80,03/07/2025,,
+No Frills,Household,Detergent,13.88,31,27/06/2025,,
+Food Basics,Meat,Pork,16.67,75,30/06/2025,1591.03,1.05
+Walmart,Bakery,Muffin,4.89,5,22/06/2025,,
+Walmart,Household,Tissue,1.88,90,18/06/2025,,
+Walmart,Vegetables,Carrot,6.14,23,21/06/2025,293.38,2.09
+Walmart,Household,Soap,16.96,14,21/06/2025,,
+Food Basics,Bakery,Bagel,8.37,94,28/06/2025,,
+No Frills,Fruits,Banana,11.66,54,10/07/2025,578.85,2.01
+No Frills,Vegetables,Potato,1.13,8,13/07/2025,1368.01,0.08
+Food Basics,Beverages,Juice,5.05,88,14/07/2025,,
+Food Basics,Beverages,Tea,18.93,96,12/07/2025,,
+Walmart,Beverages,Water,10.72,0,29/06/2025,,
+Walmart,Meat,Beef,13.02,29,17/06/2025,661.06,1.97
+Food Basics,Fruits,Apple,16.5,98,03/07/2025,1228.36,1.34
+Walmart,Bakery,Croissant,16.17,44,14/07/2025,,
+Walmart,Meat,Pork,16.6,95,01/07/2025,1095.87,1.51
+Costco,Meat,Chicken,6.46,25,28/06/2025,1599.7,0.4
+Walmart,Fruits,Banana,5.04,6,12/07/2025,1483.22,0.34
+Food Basics,Bakery,Croissant,3.31,21,09/07/2025,,
+Food Basics,Bakery,Croissant,18.29,86,11/07/2025,,
+No Frills,Fruits,Apple,4.08,70,11/07/2025,529.51,0.77
+No Frills,Snacks,Cookies,14.78,52,28/06/2025,,
+Costco,Snacks,Nuts,4.16,1,04/07/2025,731.77,0.57
+No Frills,Fruits,Apple,2.69,83,10/07/2025,736.95,0.37
+No Frills,Beverages,Tea,13.23,73,02/07/2025,,
+Food Basics,Beverages,Tea,10.5,53,17/06/2025,,
+Food Basics,Beverages,Water,8.15,45,17/06/2025,,
+Food Basics,Household,Detergent,16.63,44,13/07/2025,,
+Walmart,Beverages,Juice,8,44,15/07/2025,,
+Walmart,Snacks,Chips,1.97,55,19/06/2025,,
+No Frills,Vegetables,Onion,12.68,98,09/07/2025,988.54,1.28
+No Frills,Snacks,Cookies,17.24,55,17/07/2025,,
+Costco,Snacks,Chips,8.52,91,27/06/2025,,
+Walmart,Vegetables,Onion,4.58,2,28/06/2025,1040.37,0.44
+Walmart,Meat,Beef,12.13,48,02/07/2025,1261.07,0.96
+No Frills,Snacks,Crackers,16.58,34,19/06/2025,,
+No Frills,Dairy,Butter,17.32,17,26/06/2025,1370.27,1.26
+No Frills,Snacks,Chips,10.17,82,10/07/2025,,
+Food Basics,Bakery,Bagel,2.93,60,15/07/2025,,
+No Frills,Snacks,Nuts,18,65,12/07/2025,419.04,4.3
+Walmart,Household,Detergent,13.06,15,12/07/2025,,
+No Frills,Bakery,Muffin,11.89,52,22/06/2025,,
+Costco,Snacks,Cookies,16.92,81,14/07/2025,,
+Walmart,Fruits,Grapes,11.08,96,23/06/2025,900.08,1.23
+Walmart,Snacks,Crackers,15.86,40,10/07/2025,,
+Costco,Meat,Fish,6.92,89,04/07/2025,1460.58,0.47
+Costco,Household,Tissue,11.38,49,27/06/2025,,
+Food Basics,Fruits,Banana,13.32,72,27/06/2025,1030.98,1.29
+Food Basics,Snacks,Chips,12.84,86,14/07/2025,,
+No Frills,Beverages,Tea,1.44,68,11/07/2025,,
+Walmart,Fruits,Banana,1.59,19,09/07/2025,1711.04,0.09
+Food Basics,Fruits,Grapes,11.67,42,20/06/2025,552.85,2.11
+Walmart,Vegetables,Carrot,10.4,57,28/06/2025,1959.51,0.53
+No Frills,Meat,Fish,16.15,21,07/07/2025,1461.61,1.1
+Walmart,Snacks,Chips,5.87,69,03/07/2025,,
+Walmart,Dairy,Milk,9.45,89,03/07/2025,,
+Walmart,Fruits,Grapes,6.14,55,07/07/2025,478.83,1.28
+Walmart,Snacks,Chips,10.55,73,26/06/2025,,
+Food Basics,Snacks,Chips,6.6,66,11/07/2025,,
+Costco,Vegetables,Carrot,18.36,28,17/07/2025,1594.84,1.15
+No Frills,Vegetables,Onion,19.45,37,17/06/2025,553.21,3.52
+Walmart,Meat,Pork,11.95,30,21/06/2025,1355.65,0.88
+Food Basics,Meat,Fish,10.37,23,19/06/2025,1619.42,0.64
+No Frills,Meat,Beef,5.33,97,14/07/2025,1657.12,0.32
+Food Basics,Beverages,Water,9.1,20,11/07/2025,,
+Food Basics,Meat,Fish,4.62,77,12/07/2025,316.27,1.46
+Walmart,Meat,Fish,4.09,58,11/07/2025,471.36,0.87
+Costco,Dairy,Cheese,18.6,3,27/06/2025,1797.82,1.03
+Costco,Snacks,Nuts,18.78,32,27/06/2025,528.24,3.56
+Food Basics,Fruits,Banana,13.8,42,19/06/2025,1397.11,0.99
+No Frills,Dairy,Cheese,17.96,37,05/07/2025,1570.08,1.14
+Walmart,Fruits,Apple,10.76,9,18/06/2025,1126.63,0.96
+Walmart,Bakery,Muffin,6.43,84,14/07/2025,,
+No Frills,Vegetables,Carrot,9.6,88,07/07/2025,1349.51,0.71
+No Frills,Household,Detergent,17.11,29,12/07/2025,,
+No Frills,Household,Soap,17.02,61,16/07/2025,,
+Food Basics,Bakery,Croissant,1.05,14,29/06/2025,,
+No Frills,Beverages,Juice,9.24,49,24/06/2025,,
+Costco,Dairy,Milk,5.86,49,26/06/2025,,
+Food Basics,Dairy,Cheese,16.06,87,13/07/2025,1472.96,1.09
+Walmart,Meat,Beef,7.97,80,21/06/2025,1113.85,0.72
+Food Basics,Bakery,Croissant,4.85,24,17/07/2025,,
+No Frills,Meat,Pork,1.4,7,03/07/2025,414.5,0.34
+Food Basics,Fruits,Apple,2.28,69,25/06/2025,1168.06,0.2
+Costco,Vegetables,Potato,2.07,83,23/06/2025,862.97,0.24
+Walmart,Bakery,Muffin,1.5,40,23/06/2025,,
+No Frills,Vegetables,Potato,7.81,2,23/06/2025,1282.52,0.61
+Food Basics,Bakery,Bagel,19.7,31,26/06/2025,,
+Food Basics,Household,Toilet Paper,9.98,28,04/07/2025,,
+Costco,Beverages,Soda,1.83,7,29/06/2025,,
+No Frills,Snacks,Crackers,10.36,89,01/07/2025,,
+Costco,Fruits,Apple,8.32,12,21/06/2025,1519.87,0.55
+Food Basics,Fruits,Apple,5.43,72,07/07/2025,369.37,1.47
+Walmart,Meat,Chicken,17.8,71,06/07/2025,1184.83,1.5
+Costco,Meat,Pork,5.51,97,09/07/2025,248.55,2.22
+Food Basics,Meat,Pork,2.93,89,28/06/2025,898.13,0.33
+Walmart,Bakery,Bagel,6.93,59,16/07/2025,,
+Walmart,Beverages,Soda,4.18,4,25/06/2025,,
+Food Basics,Fruits,Banana,12.66,93,28/06/2025,1181.85,1.07
+No Frills,Household,Detergent,11.02,44,23/06/2025,,
+No Frills,Dairy,Milk,14.16,61,09/07/2025,,
+Food Basics,Dairy,Yogurt,16.42,79,01/07/2025,,
+Food Basics,Snacks,Chips,19.98,56,04/07/2025,,
+No Frills,Snacks,Cookies,3.4,47,30/06/2025,,
+No Frills,Fruits,Orange,2.62,79,09/07/2025,924.68,0.28
+No Frills,Meat,Fish,14.68,25,12/07/2025,1675.58,0.88
+Walmart,Vegetables,Onion,15.87,21,22/06/2025,627.68,2.53
+Costco,Beverages,Tea,12,31,26/06/2025,,
+Costco,Meat,Fish,18.77,84,12/07/2025,831.24,2.26
+No Frills,Dairy,Cheese,2.38,24,08/07/2025,499.35,0.48
+Walmart,Vegetables,Carrot,8.28,36,25/06/2025,1986.43,0.42
+Food Basics,Beverages,Soda,16.38,57,07/07/2025,,
+Costco,Household,Soap,12.09,24,10/07/2025,,
+No Frills,Dairy,Milk,14.53,89,30/06/2025,,
+Costco,Snacks,Cookies,19.56,49,22/06/2025,,
+Walmart,Bakery,Croissant,2.56,63,12/07/2025,,
+Food Basics,Meat,Chicken,18.71,62,23/06/2025,463.82,4.03
+Walmart,Dairy,Yogurt,12.3,1,23/06/2025,,
+Walmart,Fruits,Banana,10.16,43,05/07/2025,1563.19,0.65
+Costco,Dairy,Butter,11.72,28,26/06/2025,1367.99,0.86
+Costco,Household,Detergent,19.54,13,02/07/2025,,
+Costco,Fruits,Banana,15.46,93,01/07/2025,1013.8,1.52
+Walmart,Snacks,Cookies,1.22,99,11/07/2025,,
+Costco,Dairy,Yogurt,6.97,39,12/07/2025,,
+Food Basics,Meat,Beef,19.01,27,29/06/2025,1865.75,1.02
+No Frills,Beverages,Water,11.22,51,29/06/2025,,
+Costco,Beverages,Juice,13.91,4,13/07/2025,,
+No Frills,Snacks,Nuts,2.32,17,15/07/2025,219.62,1.06
+No Frills,Snacks,Chips,9.2,62,27/06/2025,,
+Food Basics,Snacks,Crackers,16.69,97,03/07/2025,,
+Food Basics,Vegetables,Onion,11.49,22,15/07/2025,1520.08,0.76
+No Frills,Snacks,Nuts,2.69,42,29/06/2025,231.24,1.16
+Food Basics,Dairy,Yogurt,15.75,0,10/07/2025,,
+Walmart,Household,Toilet Paper,15.18,6,21/06/2025,,
+Costco,Snacks,Cookies,18.13,74,15/07/2025,,
+Walmart,Vegetables,Tomato,2.55,3,19/06/2025,1939.58,0.13
+No Frills,Snacks,Chips,10.34,62,05/07/2025,,
+Walmart,Fruits,Orange,5.9,57,25/06/2025,751.43,0.79
+Costco,Household,Detergent,13.12,74,15/07/2025,,
+Walmart,Vegetables,Carrot,4.89,81,15/07/2025,1667.52,0.29
+No Frills,Bakery,Bread,10.59,41,14/07/2025,,
+Walmart,Vegetables,Tomato,11.08,41,29/06/2025,664.28,1.67
+Walmart,Fruits,Banana,7.37,77,01/07/2025,1144.14,0.64
+Walmart,Bakery,Bagel,11.68,51,17/06/2025,,
+Food Basics,Bakery,Croissant,13.3,99,15/07/2025,,
+No Frills,Meat,Fish,7.4,97,19/06/2025,1390.32,0.53
+Food Basics,Meat,Fish,5.54,21,29/06/2025,578.75,0.96
+Food Basics,Vegetables,Potato,9.07,68,17/07/2025,602.91,1.5
+No Frills,Vegetables,Tomato,3.18,45,13/07/2025,393.12,0.81
+No Frills,Dairy,Butter,13.84,37,28/06/2025,1589.06,0.87
+Food Basics,Bakery,Croissant,3.81,13,28/06/2025,,
+Walmart,Bakery,Bread,4.03,9,29/06/2025,,
+Costco,Household,Detergent,8.87,30,21/06/2025,,
+Costco,Vegetables,Tomato,7.77,20,22/06/2025,223.89,3.47
+Food Basics,Fruits,Orange,10.69,32,12/07/2025,1454.67,0.73
+Costco,Snacks,Nuts,7.49,12,20/06/2025,404.45,1.85
+Food Basics,Beverages,Soda,10.41,73,18/06/2025,,
+Food Basics,Vegetables,Potato,4.86,35,01/07/2025,1674.54,0.29
+Costco,Meat,Fish,9.92,24,11/07/2025,1418.57,0.7
+Walmart,Vegetables,Tomato,13.88,82,03/07/2025,1691.66,0.82
+Costco,Dairy,Cheese,1.44,30,28/06/2025,1832.32,0.08
+Food Basics,Snacks,Chips,5.34,62,26/06/2025,,
+No Frills,Vegetables,Potato,6.38,76,20/06/2025,258.04,2.47
+Walmart,Snacks,Cookies,16.08,7,06/07/2025,,
+Costco,Household,Tissue,13.37,19,30/06/2025,,
+Food Basics,Vegetables,Carrot,2.91,64,10/07/2025,459.3,0.63
+Costco,Bakery,Bread,5.33,94,07/07/2025,,
+Walmart,Household,Toilet Paper,9.28,84,01/07/2025,,
+Food Basics,Vegetables,Potato,19.99,14,01/07/2025,1933.19,1.03
+Costco,Snacks,Nuts,17.06,41,05/07/2025,1470.7,1.16
+Walmart,Meat,Beef,15.7,46,23/06/2025,1242.74,1.26
+No Frills,Dairy,Butter,17.36,60,16/07/2025,1587.69,1.09
+No Frills,Snacks,Nuts,16.3,44,18/06/2025,1682.22,0.97
+No Frills,Fruits,Apple,18.25,41,14/07/2025,1170.41,1.56
+Walmart,Fruits,Apple,8.62,98,15/07/2025,438.4,1.97
+Walmart,Beverages,Soda,17.47,86,19/06/2025,,
+No Frills,Vegetables,Potato,2.72,91,13/07/2025,510.59,0.53
+No Frills,Meat,Chicken,3.15,28,03/07/2025,1578.96,0.2
+No Frills,Household,Toilet Paper,9.72,50,14/07/2025,,
+Walmart,Household,Detergent,10.29,24,16/07/2025,,
+No Frills,Fruits,Banana,4.96,28,15/07/2025,233.73,2.12
+Costco,Household,Tissue,8.71,81,10/07/2025,,
+Walmart,Bakery,Bagel,13.51,20,30/06/2025,,
+Costco,Beverages,Water,7.3,22,18/06/2025,,
+Food Basics,Vegetables,Tomato,10.23,78,04/07/2025,976.66,1.05
+Walmart,Beverages,Juice,18.05,75,30/06/2025,,
+Costco,Dairy,Milk,19.79,40,15/07/2025,,
+Walmart,Fruits,Grapes,16.23,3,20/06/2025,1133.2,1.43
+Food Basics,Dairy,Cheese,17.19,89,05/07/2025,1268.65,1.35
+No Frills,Meat,Pork,1.58,95,17/06/2025,1453.31,0.11
+Costco,Fruits,Banana,6.44,78,11/07/2025,1074.59,0.6
+Costco,Beverages,Tea,17.12,11,29/06/2025,,
+No Frills,Dairy,Butter,1.75,2,24/06/2025,528.97,0.33
+Costco,Fruits,Banana,7.83,76,24/06/2025,987.42,0.79
+Walmart,Snacks,Nuts,1.8,50,12/07/2025,1800.45,0.1
+Food Basics,Household,Toilet Paper,2.21,63,21/06/2025,,
+Walmart,Dairy,Yogurt,15.21,60,14/07/2025,,
+Walmart,Dairy,Milk,8.66,97,12/07/2025,,
+Costco,Bakery,Bread,18.99,60,14/07/2025,,
+Food Basics,Dairy,Cheese,14.12,44,25/06/2025,484.48,2.91
+No Frills,Bakery,Bread,16.92,63,28/06/2025,,
+No Frills,Bakery,Croissant,12.65,76,02/07/2025,,
+Food Basics,Dairy,Butter,1.61,2,09/07/2025,978.78,0.16
+No Frills,Dairy,Butter,13.87,22,27/06/2025,362.37,3.83
+No Frills,Snacks,Nuts,13.43,28,18/06/2025,1727.36,0.78
+Costco,Beverages,Tea,4.88,25,07/07/2025,,
+No Frills,Snacks,Cookies,19.14,55,01/07/2025,,
+No Frills,Beverages,Tea,1.22,29,14/07/2025,,
+No Frills,Beverages,Water,18.34,98,13/07/2025,,
+Costco,Fruits,Apple,8.16,12,14/07/2025,1228.53,0.66
+Food Basics,Snacks,Nuts,3.67,30,17/07/2025,1499.48,0.24
+Walmart,Snacks,Nuts,1.99,16,21/06/2025,599.41,0.33
+Costco,Meat,Beef,15.59,10,22/06/2025,988.18,1.58
+No Frills,Fruits,Banana,17.08,61,09/07/2025,728.34,2.35
+Costco,Fruits,Grapes,19.62,49,22/06/2025,1024.61,1.91
+No Frills,Bakery,Muffin,2.47,37,05/07/2025,,
+Costco,Vegetables,Onion,3.01,80,17/07/2025,272.69,1.1
+Costco,Dairy,Butter,11.28,32,15/07/2025,936,1.21
+No Frills,Meat,Beef,1.3,72,04/07/2025,1649.41,0.08
+Food Basics,Meat,Beef,9.12,50,05/07/2025,228.4,3.99
+Costco,Snacks,Chips,14.43,10,07/07/2025,,
+Costco,Meat,Fish,14.84,17,13/07/2025,1782.62,0.83
+Costco,Fruits,Apple,6.33,7,13/07/2025,1748.93,0.36
+Costco,Beverages,Juice,4.45,29,28/06/2025,,
+Food Basics,Beverages,Water,11.35,43,19/06/2025,,
+No Frills,Vegetables,Onion,15.56,6,27/06/2025,803.17,1.94
+Food Basics,Beverages,Tea,1.61,14,09/07/2025,,
+Food Basics,Dairy,Cheese,10.96,92,18/06/2025,786.25,1.39
+Walmart,Fruits,Grapes,4.56,23,10/07/2025,1637.89,0.28
+Costco,Vegetables,Tomato,12.04,44,08/07/2025,338.59,3.56
+No Frills,Vegetables,Potato,16.16,41,11/07/2025,1983.63,0.81
+Food Basics,Bakery,Muffin,10.56,85,23/06/2025,,
+Walmart,Dairy,Yogurt,14.41,91,07/07/2025,,
+Walmart,Dairy,Cheese,15.8,49,18/06/2025,1819,0.87
+No Frills,Snacks,Cookies,16.32,18,09/07/2025,,
+Food Basics,Vegetables,Tomato,12.26,4,27/06/2025,384.86,3.19
+Costco,Fruits,Banana,8.96,0,07/07/2025,1193,0.75
+Walmart,Dairy,Yogurt,14.07,37,16/07/2025,,
+Walmart,Beverages,Juice,9.02,54,26/06/2025,,
+Walmart,Snacks,Crackers,5.78,36,01/07/2025,,
+Walmart,Household,Toilet Paper,8.01,7,02/07/2025,,
+Walmart,Dairy,Milk,9.09,88,17/06/2025,,
+Costco,Dairy,Butter,4.08,85,18/06/2025,275.98,1.48
+No Frills,Snacks,Chips,2.09,87,07/07/2025,,
+Food Basics,Beverages,Water,19.84,68,20/06/2025,,
+Food Basics,Snacks,Nuts,5.89,56,24/06/2025,1630.15,0.36
+Walmart,Bakery,Bread,5.36,48,14/07/2025,,
+Food Basics,Bakery,Croissant,14.13,90,02/07/2025,,
+Walmart,Beverages,Juice,9.07,9,17/06/2025,,
+Costco,Vegetables,Tomato,9.57,80,27/06/2025,613.24,1.56
+No Frills,Beverages,Juice,13.23,49,22/06/2025,,
+Walmart,Bakery,Bagel,11.45,52,23/06/2025,,
+Costco,Bakery,Bread,8.61,80,17/06/2025,,
+Food Basics,Beverages,Water,7.13,1,23/06/2025,,
+Food Basics,Household,Tissue,15.14,38,14/07/2025,,
+Walmart,Fruits,Orange,8.96,42,04/07/2025,1980.74,0.45
+Walmart,Bakery,Croissant,9.71,54,03/07/2025,,
+Food Basics,Snacks,Cookies,18.52,12,07/07/2025,,
+No Frills,Beverages,Water,3.59,43,27/06/2025,,
+Food Basics,Bakery,Bread,18.84,3,09/07/2025,,
+Food Basics,Household,Tissue,10.02,42,06/07/2025,,
+Food Basics,Snacks,Nuts,16.29,41,17/06/2025,379.01,4.3
+No Frills,Fruits,Banana,12.88,30,03/07/2025,300.61,4.28
+Food Basics,Dairy,Milk,17.25,38,13/07/2025,,
+No Frills,Dairy,Cheese,19.27,0,11/07/2025,1770.75,1.09
+Food Basics,Fruits,Banana,16.39,92,11/07/2025,215.14,7.62
+Walmart,Household,Detergent,7.03,92,21/06/2025,,
+No Frills,Dairy,Milk,13.56,40,17/06/2025,,
+No Frills,Vegetables,Onion,13.51,22,12/07/2025,443.53,3.05
+Food Basics,Vegetables,Onion,16.9,91,27/06/2025,1657.08,1.02
+Costco,Beverages,Tea,14.17,4,15/07/2025,,
+No Frills,Beverages,Juice,2.09,80,17/07/2025,,
+Food Basics,Beverages,Water,6.68,79,12/07/2025,,
+No Frills,Snacks,Crackers,17.4,58,24/06/2025,,
+Costco,Beverages,Soda,12.31,74,29/06/2025,,
+Walmart,Snacks,Cookies,17.43,10,06/07/2025,,
+Food Basics,Meat,Fish,11.17,2,26/06/2025,694.62,1.61
+Costco,Dairy,Butter,2.27,77,18/06/2025,1524.86,0.15
+Costco,Snacks,Chips,16.97,20,06/07/2025,,
+Walmart,Household,Tissue,4.56,54,03/07/2025,,
+Costco,Meat,Pork,9.65,63,30/06/2025,499.98,1.93
+No Frills,Household,Toilet Paper,14.6,71,15/07/2025,,
+No Frills,Bakery,Bread,3.7,51,23/06/2025,,
+Costco,Bakery,Bread,16.33,89,15/07/2025,,
+No Frills,Meat,Beef,19.22,80,29/06/2025,1585.49,1.21
+Walmart,Snacks,Crackers,2.35,70,19/06/2025,,
+Walmart,Beverages,Tea,18.11,15,29/06/2025,,
+Food Basics,Bakery,Croissant,9.09,82,24/06/2025,,
+Costco,Meat,Pork,2.17,61,25/06/2025,1616.78,0.13
+Walmart,Vegetables,Tomato,7.05,91,10/07/2025,748.17,0.94
+No Frills,Bakery,Bread,1.07,70,12/07/2025,,
+Food Basics,Bakery,Bread,5.03,25,05/07/2025,,
+Walmart,Beverages,Tea,7.41,61,16/07/2025,,
+No Frills,Snacks,Cookies,12.19,84,13/07/2025,,
+Walmart,Meat,Fish,6.05,84,10/07/2025,267.34,2.26
+Walmart,Meat,Fish,6.9,73,14/07/2025,1204.36,0.57
+No Frills,Snacks,Chips,1.43,8,07/07/2025,,
+Costco,Fruits,Grapes,15.73,44,24/06/2025,1963.89,0.8
+Food Basics,Bakery,Bagel,17.51,25,19/06/2025,,
+Costco,Fruits,Banana,11.12,95,23/06/2025,1711.14,0.65
+Costco,Meat,Beef,19.59,32,21/06/2025,794.03,2.47
+Walmart,Bakery,Bagel,2.25,58,04/07/2025,,
+Walmart,Meat,Beef,19.31,78,26/06/2025,1768.24,1.09
+No Frills,Household,Tissue,9.49,51,17/06/2025,,
+Costco,Snacks,Nuts,12.42,24,08/07/2025,1354.62,0.92
+Walmart,Meat,Fish,1.2,6,09/07/2025,308.16,0.39
+Costco,Meat,Beef,17.53,48,16/07/2025,1397.63,1.25
+No Frills,Fruits,Apple,19.2,51,28/06/2025,830.99,2.31
+No Frills,Snacks,Nuts,13.84,18,15/07/2025,1801.18,0.77
+Walmart,Vegetables,Potato,8.98,72,25/06/2025,1225.97,0.73
+Walmart,Meat,Fish,14.04,30,27/06/2025,1935.26,0.73
+Walmart,Meat,Chicken,3.39,10,23/06/2025,1119.26,0.3
+Walmart,Fruits,Banana,5.3,30,25/06/2025,1382.18,0.38
+No Frills,Dairy,Cheese,8.54,48,10/07/2025,717.34,1.19
+Food Basics,Meat,Pork,15.35,51,15/07/2025,1579.56,0.97
+Food Basics,Dairy,Butter,14.68,79,03/07/2025,324.37,4.53
+Walmart,Dairy,Butter,9.29,40,25/06/2025,736.47,1.26
+Food Basics,Meat,Chicken,8.32,86,30/06/2025,757.15,1.1
+Costco,Snacks,Chips,6.82,0,19/06/2025,,
+Costco,Bakery,Muffin,13.86,4,30/06/2025,,
+Food Basics,Bakery,Bagel,10.49,34,18/06/2025,,
+No Frills,Beverages,Tea,9.47,98,30/06/2025,,
+Food Basics,Meat,Fish,5.7,54,28/06/2025,1004.35,0.57
+Walmart,Bakery,Bread,11.5,70,26/06/2025,,
+Walmart,Dairy,Butter,7.13,88,09/07/2025,1732.99,0.41
+Food Basics,Household,Detergent,16.29,44,19/06/2025,,
+Costco,Fruits,Orange,15.19,0,29/06/2025,909.56,1.67
+Food Basics,Meat,Pork,10.81,29,13/07/2025,763.42,1.42
+Walmart,Fruits,Banana,4.62,6,04/07/2025,766.64,0.6
+Walmart,Fruits,Banana,15.73,70,23/06/2025,798.81,1.97
+Walmart,Beverages,Soda,2.14,2,01/07/2025,,
+Costco,Beverages,Water,5.59,71,18/06/2025,,
+Costco,Household,Soap,6.35,79,25/06/2025,,
+Walmart,Vegetables,Carrot,7.74,50,01/07/2025,1118.31,0.69
+Food Basics,Beverages,Tea,7.48,25,13/07/2025,,
+No Frills,Fruits,Grapes,3.34,55,24/06/2025,600.85,0.56
+Costco,Vegetables,Onion,11.23,42,28/06/2025,767.89,1.46
+Food Basics,Vegetables,Tomato,9,15,16/07/2025,1582.08,0.57
+Walmart,Beverages,Water,2.03,79,19/06/2025,,
+No Frills,Meat,Fish,9.86,19,22/06/2025,1057.78,0.93
+Walmart,Vegetables,Carrot,15.08,100,13/07/2025,1015.28,1.49
+Food Basics,Bakery,Muffin,10.81,62,16/07/2025,,
+Costco,Beverages,Soda,15.43,70,05/07/2025,,
+Food Basics,Bakery,Bread,17.89,13,28/06/2025,,
+No Frills,Snacks,Crackers,16.26,85,08/07/2025,,
+Food Basics,Vegetables,Carrot,7.29,80,22/06/2025,1162.04,0.63
+Costco,Household,Soap,12.76,57,09/07/2025,,
+No Frills,Fruits,Apple,12.47,3,06/07/2025,434.13,2.87
+Food Basics,Dairy,Butter,1.36,11,22/06/2025,1459.68,0.09
+Walmart,Dairy,Milk,15.38,15,05/07/2025,,
+Food Basics,Snacks,Chips,1.05,76,11/07/2025,,
+No Frills,Vegetables,Onion,17.18,35,21/06/2025,1815.47,0.95
+No Frills,Snacks,Cookies,4.59,12,28/06/2025,,
+Walmart,Beverages,Tea,9.44,4,24/06/2025,,
+Food Basics,Meat,Chicken,8.78,62,21/06/2025,281.55,3.12
+Walmart,Dairy,Butter,9.74,24,26/06/2025,1854.18,0.53
+Walmart,Household,Soap,10.08,36,22/06/2025,,
+No Frills,Vegetables,Onion,6.28,3,24/06/2025,795.68,0.79
+No Frills,Snacks,Cookies,4.76,39,02/07/2025,,
+Walmart,Bakery,Bagel,8.73,53,12/07/2025,,
+Costco,Dairy,Butter,3.15,66,09/07/2025,807.8,0.39
+Costco,Vegetables,Potato,3.57,22,17/07/2025,305.33,1.17
+Costco,Meat,Fish,1.65,89,29/06/2025,1408.64,0.12
+Walmart,Meat,Beef,17.55,91,13/07/2025,1018.38,1.72
+Costco,Fruits,Orange,13.77,62,30/06/2025,1692.96,0.81
+No Frills,Household,Detergent,8.89,93,21/06/2025,,
+Food Basics,Vegetables,Potato,4.66,4,18/06/2025,217.26,2.14
+Food Basics,Bakery,Muffin,19.48,67,29/06/2025,,
+Walmart,Dairy,Milk,4.2,79,08/07/2025,,
+Costco,Dairy,Milk,4.35,27,16/07/2025,,
+Costco,Beverages,Juice,3.15,62,28/06/2025,,
+Walmart,Vegetables,Onion,9.07,56,06/07/2025,476.05,1.91
+Costco,Fruits,Grapes,19.04,64,30/06/2025,413.91,4.6
+Costco,Dairy,Yogurt,16.76,7,17/06/2025,,
+Costco,Snacks,Chips,7.04,37,26/06/2025,,
+Food Basics,Fruits,Orange,15.91,70,14/07/2025,791.83,2.01
+Costco,Household,Toilet Paper,16.07,68,04/07/2025,,
+Food Basics,Household,Tissue,10.23,65,16/07/2025,,
+No Frills,Household,Detergent,3.25,90,13/07/2025,,
+Costco,Bakery,Bagel,5.16,20,06/07/2025,,
+Costco,Household,Detergent,16.52,38,08/07/2025,,
+Costco,Dairy,Yogurt,6.07,25,18/06/2025,,
+Walmart,Bakery,Muffin,5.84,36,14/07/2025,,
+No Frills,Fruits,Banana,9.73,24,02/07/2025,688.55,1.41
+Walmart,Snacks,Chips,4.63,91,02/07/2025,,
+Walmart,Snacks,Chips,19.3,63,26/06/2025,,
+Costco,Fruits,Banana,13.34,52,10/07/2025,1739.73,0.77
+Costco,Meat,Fish,1.76,64,13/07/2025,1472.38,0.12
+Walmart,Household,Detergent,6.42,87,25/06/2025,,
+Costco,Beverages,Tea,14.45,74,09/07/2025,,
+Walmart,Fruits,Apple,3.93,11,07/07/2025,748.17,0.53
+No Frills,Snacks,Nuts,15.97,53,01/07/2025,1509.95,1.06
+Costco,Meat,Beef,2.67,95,03/07/2025,323.53,0.83
+Costco,Snacks,Nuts,15.24,87,01/07/2025,1356.05,1.12
+Food Basics,Beverages,Water,11.71,16,07/07/2025,,
+Costco,Dairy,Yogurt,3.52,13,14/07/2025,,
+Walmart,Meat,Pork,16.83,76,25/06/2025,1010.8,1.67
+Food Basics,Vegetables,Tomato,7.08,10,09/07/2025,539.88,1.31
+Food Basics,Bakery,Muffin,3.45,86,26/06/2025,,
+Walmart,Fruits,Banana,9.12,55,10/07/2025,1742.1,0.52
+No Frills,Bakery,Bagel,8.02,100,08/07/2025,,
+Walmart,Beverages,Juice,4.99,10,17/07/2025,,
+Costco,Meat,Beef,20,86,25/06/2025,1897.73,1.05
+Food Basics,Meat,Pork,1.62,2,12/07/2025,1200.18,0.13
+Walmart,Dairy,Yogurt,2.9,43,19/06/2025,,
+Food Basics,Vegetables,Tomato,11.56,78,01/07/2025,1755.92,0.66
+No Frills,Vegetables,Potato,9.51,15,17/07/2025,1906.84,0.5
+Costco,Snacks,Cookies,9.41,24,17/07/2025,,
+No Frills,Bakery,Muffin,3.68,53,04/07/2025,,
+Food Basics,Fruits,Apple,15.27,28,19/06/2025,820.99,1.86
+No Frills,Household,Soap,18.63,81,21/06/2025,,
+Food Basics,Snacks,Chips,17.71,42,18/06/2025,,
+Walmart,Meat,Chicken,10.61,62,04/07/2025,447.3,2.37
+Costco,Vegetables,Onion,11.08,65,23/06/2025,920.03,1.2
+Costco,Household,Detergent,16.18,1,12/07/2025,,
+No Frills,Meat,Chicken,6.13,20,19/06/2025,1156.58,0.53
+Costco,Fruits,Orange,1.1,91,07/07/2025,370.19,0.3
+No Frills,Bakery,Bagel,12.07,68,16/07/2025,,
+Walmart,Bakery,Bagel,13.92,97,23/06/2025,,
+Walmart,Household,Detergent,11.85,55,08/07/2025,,
+Food Basics,Fruits,Apple,15.16,95,26/06/2025,1428.52,1.06
+Food Basics,Fruits,Banana,3.03,46,23/06/2025,1558.2,0.19
+Costco,Snacks,Nuts,2.24,24,05/07/2025,1069.51,0.21
+Food Basics,Beverages,Tea,7.18,76,09/07/2025,,
+Walmart,Snacks,Cookies,15.41,22,08/07/2025,,
+No Frills,Snacks,Crackers,13.22,82,09/07/2025,,
+Walmart,Meat,Beef,13.77,46,19/06/2025,1823.78,0.76
+Costco,Bakery,Muffin,19.97,4,29/06/2025,,
+Walmart,Household,Toilet Paper,14.66,82,09/07/2025,,
+Food Basics,Household,Toilet Paper,15.18,100,18/06/2025,,
+Costco,Household,Detergent,17.8,16,09/07/2025,,
+Food Basics,Dairy,Butter,14.07,20,12/07/2025,1614.68,0.87
+Walmart,Household,Toilet Paper,18.88,98,14/07/2025,,
+Walmart,Snacks,Nuts,15.85,13,13/07/2025,860.37,1.84
+No Frills,Household,Toilet Paper,11.24,85,02/07/2025,,
+No Frills,Household,Detergent,5.06,45,16/07/2025,,
+Costco,Dairy,Cheese,16.34,74,17/07/2025,1357.29,1.2
+Walmart,Fruits,Banana,4.81,48,06/07/2025,1039.73,0.46
+Food Basics,Beverages,Juice,12.91,61,05/07/2025,,
+Costco,Snacks,Chips,18.95,61,26/06/2025,,
+Walmart,Meat,Chicken,20,78,24/06/2025,635.35,3.15
+Costco,Household,Soap,4.24,69,09/07/2025,,
+Costco,Bakery,Muffin,16.86,5,03/07/2025,,
+No Frills,Vegetables,Onion,6.51,66,26/06/2025,1456.39,0.45
+Costco,Vegetables,Carrot,11,41,08/07/2025,1649.78,0.67
+Food Basics,Vegetables,Carrot,4.16,51,08/07/2025,1884.6,0.22
+Food Basics,Meat,Fish,14.38,11,06/07/2025,1518.77,0.95
+Costco,Snacks,Nuts,10.37,38,17/06/2025,915.64,1.13
+Walmart,Fruits,Apple,19.54,81,17/06/2025,1907.02,1.02
+Costco,Household,Tissue,9.22,56,26/06/2025,,
+Food Basics,Fruits,Orange,19.94,81,01/07/2025,1464.96,1.36
+Costco,Beverages,Tea,12.88,18,06/07/2025,,
+Walmart,Bakery,Bread,12.66,98,04/07/2025,,
+Walmart,Dairy,Butter,15.37,36,15/07/2025,708.17,2.17
+Walmart,Household,Tissue,6.49,94,12/07/2025,,
+Walmart,Vegetables,Potato,7.42,70,29/06/2025,1811.85,0.41
+Food Basics,Dairy,Cheese,16.38,40,12/07/2025,285.46,5.74
+No Frills,Snacks,Crackers,6.7,80,30/06/2025,,
+Walmart,Meat,Beef,18.66,48,20/06/2025,499.18,3.74
+Costco,Meat,Fish,15.26,41,05/07/2025,1828.93,0.83
+Food Basics,Household,Detergent,7.68,21,09/07/2025,,
+No Frills,Vegetables,Potato,6.59,96,21/06/2025,1992.26,0.33
+Costco,Bakery,Muffin,11.91,78,12/07/2025,,
+Food Basics,Meat,Chicken,8.31,97,22/06/2025,430.86,1.93
+Walmart,Dairy,Butter,8.13,12,02/07/2025,1614.14,0.5
+Food Basics,Beverages,Juice,10.46,4,30/06/2025,,
+Food Basics,Snacks,Chips,14.59,0,16/07/2025,,
+No Frills,Beverages,Water,16.22,9,09/07/2025,,
+Walmart,Dairy,Milk,15,93,06/07/2025,,
+Food Basics,Snacks,Nuts,2.29,81,02/07/2025,1626.36,0.14
+Food Basics,Dairy,Cheese,4.94,88,16/07/2025,269.75,1.83
+Walmart,Bakery,Muffin,15.54,10,27/06/2025,,
+No Frills,Household,Tissue,19.69,86,18/06/2025,,
+Walmart,Beverages,Juice,13.66,28,01/07/2025,,
+No Frills,Household,Detergent,3.82,11,17/06/2025,,
+Food Basics,Fruits,Apple,2.66,8,18/06/2025,1406.54,0.19
+Walmart,Meat,Fish,5.53,13,15/07/2025,374.03,1.48
+Food Basics,Meat,Beef,7.98,28,11/07/2025,599.98,1.33
+Walmart,Fruits,Apple,6.7,42,30/06/2025,965.18,0.69
+Food Basics,Meat,Beef,2.78,35,28/06/2025,206.55,1.35
+Walmart,Snacks,Crackers,6.2,71,28/06/2025,,
+Food Basics,Beverages,Tea,1.36,74,17/06/2025,,
+Food Basics,Vegetables,Potato,19.96,67,23/06/2025,1428.88,1.4
+Walmart,Household,Detergent,19.16,99,27/06/2025,,
+Food Basics,Dairy,Cheese,18.36,38,06/07/2025,1217.92,1.51
+No Frills,Vegetables,Onion,4.97,8,16/07/2025,696.08,0.71
+Costco,Dairy,Milk,1.95,31,03/07/2025,,
+No Frills,Fruits,Grapes,17.46,42,26/06/2025,434.25,4.02
+Food Basics,Bakery,Croissant,17.2,5,17/06/2025,,
+Costco,Meat,Fish,6.7,61,12/07/2025,1862.22,0.36
+Walmart,Snacks,Chips,10.82,6,29/06/2025,,
+Costco,Fruits,Banana,8.62,64,09/07/2025,652.24,1.32
+No Frills,Meat,Pork,11.47,52,24/06/2025,1710.42,0.67
+Costco,Dairy,Milk,4.48,90,20/06/2025,,
+No Frills,Snacks,Cookies,16.26,85,19/06/2025,,
+Costco,Snacks,Crackers,8.39,45,06/07/2025,,
+No Frills,Bakery,Bread,15.44,59,13/07/2025,,
+No Frills,Meat,Beef,15.31,78,10/07/2025,849.94,1.8
+Food Basics,Snacks,Nuts,16.56,72,10/07/2025,1578.73,1.05
+No Frills,Snacks,Chips,9.37,54,30/06/2025,,
+Food Basics,Meat,Fish,6.97,6,18/06/2025,1124.49,0.62
+Walmart,Bakery,Bread,18.08,46,19/06/2025,,
+Walmart,Household,Toilet Paper,2.98,69,04/07/2025,,
+No Frills,Fruits,Orange,16.39,64,30/06/2025,1572.87,1.04
+No Frills,Dairy,Cheese,3.84,20,29/06/2025,416.97,0.92
+Food Basics,Beverages,Water,6.83,98,17/07/2025,,
+Walmart,Dairy,Yogurt,14.99,49,28/06/2025,,
+Costco,Bakery,Muffin,4.18,52,08/07/2025,,
+Food Basics,Bakery,Muffin,4.09,54,09/07/2025,,
+No Frills,Household,Toilet Paper,6.14,29,12/07/2025,,
+Food Basics,Household,Detergent,3.8,33,13/07/2025,,
+Food Basics,Meat,Pork,17.23,40,26/06/2025,1725,1
+No Frills,Bakery,Croissant,7.08,18,09/07/2025,,
+Costco,Snacks,Crackers,10.63,24,25/06/2025,,
+Food Basics,Vegetables,Tomato,8.9,4,09/07/2025,1851.14,0.48
+No Frills,Dairy,Butter,18,40,25/06/2025,1783.36,1.01
+Walmart,Beverages,Water,3.7,25,11/07/2025,,
+Food Basics,Meat,Fish,12.63,79,26/06/2025,1301.89,0.97
+Costco,Dairy,Butter,12.86,39,02/07/2025,1393.39,0.92
+Food Basics,Meat,Pork,8.53,84,07/07/2025,1494.33,0.57
+Costco,Snacks,Crackers,15.33,80,21/06/2025,,
+Costco,Beverages,Water,1.06,28,07/07/2025,,
+Costco,Snacks,Chips,17.96,31,30/06/2025,,
+Walmart,Vegetables,Onion,12,49,22/06/2025,1708.4,0.7
+Costco,Snacks,Nuts,3.72,48,08/07/2025,1768.35,0.21
+No Frills,Household,Toilet Paper,10.52,25,30/06/2025,,
+Walmart,Snacks,Crackers,11.55,14,26/06/2025,,
+No Frills,Snacks,Nuts,13.77,34,17/06/2025,1233.11,1.12
+Walmart,Dairy,Butter,16.55,9,15/07/2025,373.82,4.43
+Costco,Fruits,Grapes,5.77,15,10/07/2025,891.69,0.65
+Food Basics,Bakery,Bread,17.22,92,28/06/2025,,
+Food Basics,Vegetables,Onion,7.44,20,15/07/2025,1004.72,0.74
+Food Basics,Meat,Pork,12.26,30,16/07/2025,1753.33,0.7
+Walmart,Snacks,Chips,3.07,38,21/06/2025,,
+Food Basics,Meat,Beef,1.94,10,21/06/2025,465.88,0.42
+Walmart,Beverages,Juice,1.31,80,15/07/2025,,
+Food Basics,Household,Soap,17.62,96,30/06/2025,,
+No Frills,Beverages,Soda,9.3,57,21/06/2025,,
+Costco,Snacks,Chips,16.5,43,08/07/2025,,
+Costco,Beverages,Juice,11.09,9,21/06/2025,,
+No Frills,Vegetables,Potato,11.88,30,06/07/2025,452.33,2.63
+Costco,Beverages,Water,3.39,100,28/06/2025,,
+Costco,Bakery,Muffin,8.48,78,01/07/2025,,
+Food Basics,Snacks,Chips,2.5,0,06/07/2025,,
+No Frills,Household,Toilet Paper,7.8,20,03/07/2025,,
+Costco,Fruits,Orange,7.12,14,29/06/2025,682.77,1.04
+No Frills,Dairy,Milk,16.8,26,15/07/2025,,
+Walmart,Dairy,Cheese,6.05,15,11/07/2025,585.06,1.03
+Costco,Fruits,Orange,15.07,20,16/07/2025,1553.57,0.97
+Food Basics,Vegetables,Tomato,5.21,94,01/07/2025,1219.6,0.43
+Food Basics,Meat,Chicken,4.12,67,12/07/2025,781.51,0.53
+Walmart,Household,Tissue,11.32,71,24/06/2025,,
+Costco,Meat,Beef,2.1,0,01/07/2025,1931.19,0.11
+Costco,Meat,Chicken,19.9,77,19/06/2025,383.41,5.19
+Costco,Meat,Fish,16.09,73,29/06/2025,1564.63,1.03
+Food Basics,Dairy,Butter,5.2,41,16/07/2025,354.57,1.47
+Walmart,Beverages,Juice,8.18,38,16/07/2025,,
+Food Basics,Dairy,Yogurt,5.63,28,24/06/2025,,
+Food Basics,Vegetables,Potato,2.48,31,05/07/2025,247.09,1
+Walmart,Snacks,Chips,2.8,81,16/07/2025,,
+Food Basics,Snacks,Crackers,9.52,70,22/06/2025,,
+No Frills,Beverages,Water,9.12,9,13/07/2025,,
+No Frills,Vegetables,Carrot,1.58,31,04/07/2025,428.95,0.37
+Walmart,Fruits,Orange,8.54,78,15/07/2025,799.2,1.07
+Food Basics,Household,Toilet Paper,6.63,41,24/06/2025,,
+No Frills,Bakery,Croissant,19.45,100,06/07/2025,,
+Costco,Bakery,Muffin,15.34,98,08/07/2025,,
+No Frills,Beverages,Juice,12.45,58,11/07/2025,,
+Food Basics,Dairy,Cheese,2.92,66,08/07/2025,1039.69,0.28
+Walmart,Bakery,Bread,11.43,8,22/06/2025,,
+Costco,Bakery,Bread,15.96,5,23/06/2025,,
+Costco,Snacks,Chips,3.48,20,18/06/2025,,
+Walmart,Fruits,Apple,15.13,98,21/06/2025,1643.99,0.92
+Food Basics,Vegetables,Onion,1.82,66,04/07/2025,465.51,0.39
+No Frills,Dairy,Cheese,3.39,1,10/07/2025,1591.35,0.21
+Costco,Fruits,Banana,16.99,64,07/07/2025,262.91,6.46
+Costco,Snacks,Crackers,14.52,54,06/07/2025,,
+No Frills,Vegetables,Onion,4.86,88,08/07/2025,248.14,1.96
+Walmart,Dairy,Milk,16.44,89,22/06/2025,,
+Walmart,Meat,Pork,4.46,53,26/06/2025,1217.06,0.37
+Walmart,Household,Toilet Paper,11.75,39,23/06/2025,,
+Walmart,Dairy,Milk,14.04,75,23/06/2025,,
+Food Basics,Vegetables,Potato,16.75,12,22/06/2025,1068.37,1.57
+Costco,Fruits,Banana,16.14,4,17/07/2025,1490.43,1.08
+Costco,Snacks,Cookies,10.01,60,07/07/2025,,
+No Frills,Snacks,Nuts,14.01,28,02/07/2025,832.93,1.68
+Food Basics,Snacks,Chips,9.82,60,22/06/2025,,
+Walmart,Vegetables,Carrot,13.13,82,17/07/2025,1677.29,0.78
+Walmart,Fruits,Grapes,1.32,29,25/06/2025,1359.46,0.1
+Costco,Bakery,Bagel,10.54,87,11/07/2025,,
+Walmart,Fruits,Apple,14.99,93,19/06/2025,246.82,6.07
+Walmart,Snacks,Crackers,11.65,72,28/06/2025,,
+Walmart,Household,Toilet Paper,1.31,50,09/07/2025,,
+Walmart,Snacks,Nuts,18.29,44,08/07/2025,1047.06,1.75
+Costco,Meat,Fish,14.39,16,28/06/2025,1320.96,1.09
+Food Basics,Fruits,Banana,13.2,24,17/06/2025,711.27,1.86
+Walmart,Snacks,Nuts,12.66,69,17/06/2025,1623.05,0.78
+Costco,Fruits,Banana,14.28,25,10/07/2025,1507.75,0.95
+Food Basics,Meat,Beef,6.64,55,30/06/2025,289.25,2.3
+Food Basics,Snacks,Chips,6.28,31,20/06/2025,,
+Food Basics,Household,Detergent,13.75,68,03/07/2025,,
+No Frills,Household,Toilet Paper,14.63,6,20/06/2025,,
+Food Basics,Vegetables,Carrot,1.26,52,13/07/2025,1471.32,0.09
+Costco,Bakery,Muffin,18.78,96,23/06/2025,,
+Costco,Dairy,Yogurt,9.12,0,16/07/2025,,
+Costco,Snacks,Chips,14.03,54,08/07/2025,,
+Costco,Household,Toilet Paper,19.07,48,10/07/2025,,
+Food Basics,Household,Toilet Paper,10.89,65,11/07/2025,,
+No Frills,Beverages,Soda,2.09,95,01/07/2025,,
+Food Basics,Meat,Beef,11.62,87,27/06/2025,1295.12,0.9
+Food Basics,Household,Soap,7.35,53,25/06/2025,,
+No Frills,Beverages,Tea,5.42,7,10/07/2025,,
+Food Basics,Vegetables,Tomato,6.11,24,21/06/2025,852.07,0.72
+No Frills,Meat,Fish,4.46,82,29/06/2025,1574.1,0.28
+Costco,Beverages,Tea,17.18,17,02/07/2025,,
+Food Basics,Beverages,Soda,5.15,63,05/07/2025,,
+Food Basics,Meat,Fish,3.72,12,08/07/2025,515.75,0.72
+Walmart,Fruits,Banana,5.47,30,03/07/2025,798.77,0.68
+Costco,Bakery,Bagel,6.71,89,08/07/2025,,
+Food Basics,Household,Tissue,16.36,88,04/07/2025,,
+Walmart,Beverages,Soda,1.91,23,24/06/2025,,
+Food Basics,Fruits,Orange,2.87,43,29/06/2025,1843.22,0.16
+Food Basics,Dairy,Milk,5.12,18,27/06/2025,,
+Walmart,Household,Tissue,2.2,27,09/07/2025,,
+No Frills,Beverages,Juice,5.5,89,14/07/2025,,
+Costco,Vegetables,Tomato,8.29,57,25/06/2025,763.69,1.09
+Food Basics,Fruits,Banana,9.54,94,16/07/2025,1784.45,0.53
+Food Basics,Dairy,Butter,1.85,100,27/06/2025,665.83,0.28
+Costco,Beverages,Water,1.85,98,25/06/2025,,
+Food Basics,Vegetables,Potato,11.01,10,30/06/2025,943.8,1.17
+Food Basics,Beverages,Juice,8.96,56,21/06/2025,,
+No Frills,Fruits,Apple,6.76,59,06/07/2025,746.63,0.91
+Costco,Beverages,Soda,5.62,37,12/07/2025,,
+Food Basics,Household,Tissue,6.08,23,12/07/2025,,
+Food Basics,Meat,Beef,7.46,13,11/07/2025,1185.68,0.63
+Costco,Vegetables,Potato,7.29,12,24/06/2025,1603.86,0.45
+Walmart,Meat,Pork,10.26,81,21/06/2025,1031.97,0.99
+Costco,Fruits,Orange,2.77,75,27/06/2025,526.01,0.53
+No Frills,Household,Tissue,7.5,78,08/07/2025,,
+Walmart,Household,Soap,10.64,27,25/06/2025,,
+Food Basics,Meat,Beef,19.98,24,05/07/2025,438.8,4.55
+Walmart,Household,Soap,16.4,76,10/07/2025,,
+Walmart,Fruits,Grapes,13.31,5,05/07/2025,372.18,3.58
+No Frills,Meat,Beef,1.21,79,16/07/2025,1604.03,0.08
+Food Basics,Beverages,Soda,17.45,94,11/07/2025,,
+Walmart,Bakery,Bread,2.03,32,16/07/2025,,
+Walmart,Fruits,Banana,2.73,20,01/07/2025,1054.41,0.26
+Costco,Household,Toilet Paper,16.05,42,15/07/2025,,
+No Frills,Snacks,Cookies,14.59,49,01/07/2025,,
+Walmart,Beverages,Soda,11.28,18,16/07/2025,,
+Costco,Snacks,Crackers,18.52,97,22/06/2025,,
+Food Basics,Meat,Beef,18.57,28,27/06/2025,1280.2,1.45
+Food Basics,Meat,Beef,6.48,66,29/06/2025,400.74,1.62
+Walmart,Beverages,Tea,18.74,1,25/06/2025,,
+Walmart,Dairy,Milk,4.87,62,28/06/2025,,
+Costco,Meat,Fish,6.1,44,14/07/2025,512.14,1.19
+Food Basics,Beverages,Soda,12.52,100,02/07/2025,,
+Walmart,Meat,Chicken,11.32,99,13/07/2025,1809.26,0.63
+Food Basics,Meat,Chicken,1.06,46,25/06/2025,920.06,0.12
+No Frills,Snacks,Chips,17.55,96,26/06/2025,,
+Walmart,Dairy,Cheese,16.58,90,13/07/2025,1275.04,1.3
+Walmart,Fruits,Grapes,18.8,58,02/07/2025,1887.96,1
+Costco,Household,Soap,2.33,9,23/06/2025,,
+Walmart,Beverages,Juice,3.11,81,22/06/2025,,
+Food Basics,Meat,Pork,19.23,86,17/06/2025,225.42,8.53
+Walmart,Fruits,Banana,10.75,41,28/06/2025,766.1,1.4
+Walmart,Fruits,Grapes,12.97,61,20/06/2025,419.6,3.09
+No Frills,Beverages,Soda,15.45,89,28/06/2025,,
+Costco,Snacks,Cookies,7.79,57,08/07/2025,,
+No Frills,Fruits,Grapes,7.29,19,06/07/2025,837.32,0.87
+Costco,Vegetables,Carrot,12.35,51,19/06/2025,1172.29,1.05
+Costco,Meat,Pork,13.01,11,24/06/2025,1516.61,0.86
+Costco,Dairy,Cheese,7.44,82,23/06/2025,1349.74,0.55
+Food Basics,Dairy,Butter,19.87,12,28/06/2025,1970.7,1.01
+Costco,Meat,Chicken,6.18,58,03/07/2025,1761.65,0.35
+Walmart,Dairy,Milk,10.06,1,01/07/2025,,
+Food Basics,Meat,Fish,8.11,88,22/06/2025,1380.25,0.59
+Walmart,Dairy,Butter,11.75,97,05/07/2025,735.98,1.6
+No Frills,Vegetables,Potato,11.02,96,28/06/2025,285.27,3.86
+No Frills,Fruits,Apple,4.61,13,04/07/2025,1524.59,0.3
+Walmart,Bakery,Croissant,5.07,32,05/07/2025,,
+Food Basics,Meat,Pork,1.63,45,23/06/2025,1042.54,0.16
+Costco,Household,Soap,14.68,69,14/07/2025,,
+Costco,Vegetables,Carrot,16.1,79,20/06/2025,825.41,1.95
+Walmart,Vegetables,Potato,7.64,53,09/07/2025,371.48,2.06
+Walmart,Meat,Pork,2.04,3,17/06/2025,1624.34,0.13
+Food Basics,Meat,Chicken,10.87,61,20/06/2025,852.77,1.27
+Food Basics,Meat,Beef,10,33,16/07/2025,1160.63,0.86
+Walmart,Dairy,Yogurt,19.29,56,18/06/2025,,
+Costco,Beverages,Soda,3.49,19,13/07/2025,,
+No Frills,Meat,Pork,14.51,30,01/07/2025,733.51,1.98
+Costco,Household,Tissue,5.16,53,11/07/2025,,
+No Frills,Vegetables,Onion,18.67,84,14/07/2025,774.15,2.41
+No Frills,Household,Soap,8.1,36,01/07/2025,,
+No Frills,Dairy,Milk,4.88,68,26/06/2025,,
+Costco,Dairy,Milk,2.63,57,27/06/2025,,
+No Frills,Meat,Beef,7.92,31,07/07/2025,1583.12,0.5
+Walmart,Dairy,Milk,8.04,33,05/07/2025,,
+Food Basics,Fruits,Apple,1.32,93,04/07/2025,1066.6,0.12
+Costco,Household,Soap,12.38,67,25/06/2025,,
+Food Basics,Vegetables,Tomato,8.59,40,26/06/2025,1251.08,0.69
+Costco,Bakery,Bread,19.89,83,11/07/2025,,
+Costco,Beverages,Tea,4.83,49,09/07/2025,,
+Walmart,Dairy,Yogurt,12.21,66,22/06/2025,,
+Walmart,Snacks,Chips,2.02,70,09/07/2025,,
+No Frills,Meat,Beef,7.11,33,04/07/2025,1290.63,0.55
+Walmart,Household,Toilet Paper,19.25,48,21/06/2025,,
+No Frills,Snacks,Nuts,9.99,6,08/07/2025,876.1,1.14
+Walmart,Fruits,Grapes,2.15,32,11/07/2025,1213.68,0.18
+Walmart,Bakery,Bagel,6.74,66,02/07/2025,,
+No Frills,Meat,Fish,2.23,19,17/06/2025,1180.76,0.19
+Food Basics,Household,Tissue,11.37,41,03/07/2025,,
+Walmart,Bakery,Bagel,19.09,11,18/06/2025,,
+Food Basics,Bakery,Bread,9.47,66,23/06/2025,,
+Walmart,Fruits,Grapes,2.39,16,26/06/2025,612.31,0.39
+No Frills,Snacks,Cookies,5.41,49,30/06/2025,,
+Walmart,Meat,Beef,18.03,72,12/07/2025,849.27,2.12
+No Frills,Snacks,Chips,13.43,29,25/06/2025,,
+Food Basics,Meat,Chicken,12.03,7,04/07/2025,488.9,2.46
+No Frills,Snacks,Crackers,1.32,61,05/07/2025,,
+Costco,Household,Tissue,7.57,63,08/07/2025,,
+Costco,Fruits,Apple,6.79,82,04/07/2025,448.36,1.51
+Walmart,Bakery,Bagel,8.59,59,22/06/2025,,
+Food Basics,Beverages,Water,5.99,31,09/07/2025,,
+Costco,Beverages,Soda,7.37,81,11/07/2025,,
+Costco,Bakery,Croissant,2.08,71,17/06/2025,,
+Walmart,Beverages,Soda,17.71,80,17/06/2025,,
+Costco,Household,Detergent,6.2,46,28/06/2025,,
+Food Basics,Fruits,Banana,6.68,56,13/07/2025,1397.62,0.48
+No Frills,Dairy,Cheese,8.05,94,24/06/2025,1232.3,0.65
+Food Basics,Vegetables,Tomato,13.83,85,16/07/2025,1663.6,0.83
+Costco,Snacks,Crackers,13.96,42,30/06/2025,,
+Costco,Household,Toilet Paper,4.16,100,13/07/2025,,
